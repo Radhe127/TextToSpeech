@@ -1,4 +1,4 @@
 # TextToSpeech
 Text to Speech converter.
 
-Click here to [try](https://symmetrical-space-parakeet-wrvqg65pw9jx35764-5501.app.github.dev/)
+Click here to [try](https://radhe127.github.io/TextToSpeech/)
